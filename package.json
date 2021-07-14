@@ -1,0 +1,19 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "Crea un archivo de texto con una tabla",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "keywords": [
+    "tablas"
+  ],
+  "author": "Lautaro Romero",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
