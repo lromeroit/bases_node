@@ -1,4 +1,4 @@
-#NOTES
+#NOTES:
 Multiplica el numero que desees las veces que quieras incrementalmente.
 
 ```
